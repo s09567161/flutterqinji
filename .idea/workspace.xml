@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a576864-4079-46ff-9caa-b7078da1ed69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/qianji_app/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/qianji_app/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qianji_app/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/qianji_app/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qianji_app/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/qianji_app/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qianji_app/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/qianji_app/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qianji_app/lib/pages/login_page/set_password_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/qianji_app/lib/pages/login_page/set_password_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qianji_app/lib/utils/router/application.dart" beforeDir="false" afterPath="$PROJECT_DIR$/qianji_app/lib/utils/router/application.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qianji_app/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/qianji_app/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qianji_app/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/qianji_app/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/qianji_app" />
+  </component>
+  <component name="ProjectId" id="2Lirpyu9lXWbMCdYhww2Be0EW2C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="D:/AndroidSDK" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a576864-4079-46ff-9caa-b7078da1ed69" name="Default Changelist" comment="" />
+      <created>1676364930181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676364930181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="297" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1678322579589">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="614" y="297" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.816@0.0.1536.816" timestamp="1678322579589" />
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1678322156633">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="449" y="232" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1678322156633" />
+  </component>
+</project>
